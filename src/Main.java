@@ -5,6 +5,10 @@ public class Main {
         myRobot.checkBatteryLevel(); // Check battery level
         myRobot.stop(); // Stop the robot
         myRobot.chargeBattery(); // Charge the robot's battery
+        myRobot.displayInfo();
+
+
     }
+
 
 }
